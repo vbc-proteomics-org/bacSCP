@@ -1,0 +1,74 @@
+FileName	Plate	organism	condition	#cells	bulk [pg]	intact	spheroplast	stained	Precursors	Peptides	ProteinGroups
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_0cell_P1.raw	1	Ecoli	0cell	0					217	193	51
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_0cell_P2.raw	1	Ecoli	0cell	0					214	191	52
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_0cell_P3.raw	1	Ecoli	0cell	0					216	192	53
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_0cell_P4.raw	1	Ecoli	0cell	0					214	191	51
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_10coli_st_P1O1.raw	1	Ecoli	10x_intact_st	10		x		x	188	178	75
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_10coli_st_P2O3.raw	2	Ecoli	10x_protop_ceph_st	10			ceph	x	1160	1053	277
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_10coli_st_P2O4.raw	2	Ecoli	10x_protop_st	10			x	x	1097	1006	279
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_10coli_st_P2P3.raw	2	Ecoli	10x_protop_ceph_st	10			ceph	x	1192	1086	290
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_10coli_st_P2P4.raw	2	Ecoli	10x_protop_st	10			x	x	1081	1012	287
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_10coli_us_P1O3.raw	1	Ecoli	10x_intact_us	10		x			165	150	44
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1A1.raw	1	Ecoli	1x_intact_st	1		x		x	820	655	115
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1B1.raw	1	Ecoli	1x_intact_st	1		x		x	772	616	110
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1C1.raw	1	Ecoli	1x_intact_st	1		x		x	743	614	113
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1D1.raw	1	Ecoli	1x_intact_st	1		x		x	783	636	119
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1E1.raw	1	Ecoli	1x_intact_st	1		x		x	851	691	156
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1F1.raw	1	Ecoli	1x_intact_st	1		x		x	727	619	141
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1G1.raw	1	Ecoli	1x_intact_st	1		x		x	810	671	129
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1H1.raw	1	Ecoli	1x_intact_st	1		x		x	830	670	133
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1I1.raw	1	Ecoli	1x_intact_st	1		x		x	681	562	102
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1J1.raw	1	Ecoli	1x_intact_st	1		x		x	712	609	112
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1K1.raw	1	Ecoli	1x_intact_st	1		x		x	730	611	104
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1L1.raw	1	Ecoli	1x_intact_st	1		x		x	739	616	126
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1M1.raw	1	Ecoli	1x_intact_st	1		x		x	367	332	97
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P1N1.raw	1	Ecoli	1x_intact_st	1		x		x	494	453	127
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2A3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	496	454	138
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2B3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	564	506	151
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2C3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	636	546	135
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2D3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	592	495	128
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2E3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	573	497	147
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2F3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	459	411	117
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2G3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	517	471	133
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2H3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	556	508	135
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2I3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	695	634	161
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2J3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	419	384	106
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2K3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	480	440	122
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2L3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	761	669	171
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2M3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	542	494	135
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_st_P2N3.raw	2	Ecoli	1x_protop_ceph_st	1			ceph	x	471	429	132
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1A3.raw	1	Ecoli	1x_intact_us	1		x			597	470	105
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1B3.raw	1	Ecoli	1x_intact_us	1		x			593	480	121
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1C3.raw	1	Ecoli	1x_intact_us	1		x			384	339	92
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1D3.raw	1	Ecoli	1x_intact_us	1		x			351	310	76
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1E3.raw	1	Ecoli	1x_intact_us	1		x			434	367	87
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1F3.raw	1	Ecoli	1x_intact_us	1		x			310	277	72
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1G3.raw	1	Ecoli	1x_intact_us	1		x			550	456	97
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1H3.raw	1	Ecoli	1x_intact_us	1		x			604	459	60
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1I3.raw	1	Ecoli	1x_intact_us	1		x			652	503	69
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1J3.raw	1	Ecoli	1x_intact_us	1		x			662	514	75
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1K3.raw	1	Ecoli	1x_intact_us	1		x			643	494	71
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1L3.raw	1	Ecoli	1x_intact_us	1		x			617	492	79
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1M3.raw	1	Ecoli	1x_intact_us	1		x			655	509	81
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_coli_us_P1N3.raw	1	Ecoli	1x_intact_us	1		x			520	402	64
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_1pg_1.raw	bulk	Ecoli	1pg		1				170	168	82
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_1pg_2.raw	bulk	Ecoli	1pg		1				173	171	86
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_1pg_3.raw	bulk	Ecoli	1pg		1				170	168	84
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_5pg_1.raw	bulk	Ecoli	5pg		5				1938	1896	531
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_5pg_2.raw	bulk	Ecoli	5pg		5				1907	1867	519
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_5pg_3.raw	bulk	Ecoli	5pg		5				1918	1877	521
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_10pg_1.raw	bulk	Ecoli	10pg		10				2762	2693	686
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_10pg_2.raw	bulk	Ecoli	10pg		10				2726	2660	679
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_10pg_3.raw	bulk	Ecoli	10pg		10				2754	2687	685
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_20pg_1.raw	bulk	Ecoli	20pg		20				4352	4203	951
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_20pg_2.raw	bulk	Ecoli	20pg		20				4356	4203	943
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_20pg_3.raw	bulk	Ecoli	20pg		20				4293	4148	943
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_50pg_1.raw	bulk	Ecoli	50pg		50				7174	6707	1314
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_50pg_2.raw	bulk	Ecoli	50pg		50				7274	6790	1321
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_50pg_3.raw	bulk	Ecoli	50pg		50				7152	6681	1314
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_100pg_1.raw	bulk	Ecoli	100pg		100				8278	7645	1397
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_100pg_2.raw	bulk	Ecoli	100pg		100				8250	7620	1395
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_100pg_3.raw	bulk	Ecoli	100pg		100				8257	7625	1397
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_200pg_1.raw	bulk	Ecoli	200pg		200				8858	8131	1438
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_200pg_2.raw	bulk	Ecoli	200pg		200				8854	8134	1438
+20250908_A1_Neo6_TH116_Ledolter_MS_TechHub_IMP_THIDTC003_E_coli_200pg_3.raw	bulk	Ecoli	200pg		200				8867	8147	1438
