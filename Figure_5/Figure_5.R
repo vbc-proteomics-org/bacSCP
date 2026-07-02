@@ -62,7 +62,7 @@ curve_data   %>% distinct(sample, condition)
 
 # Define genes of interest which should be labeled in the volcano plots
 # if you want to label more genes, add them here
-genes_of_interest <- c("clpC", "groES", "groEL")
+genes_of_interest <- c("clpC", "groES", "groEL", "tpiA")
 
 
 
